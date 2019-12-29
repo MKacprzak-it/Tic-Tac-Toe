@@ -35,7 +35,9 @@ body {
   .square:focus {
     outline: none;
   }
-  
+  .highlight{
+    background-color: yellow;
+  }
   .kbd-navigation .square:focus {
     background: #ddd;
   }
